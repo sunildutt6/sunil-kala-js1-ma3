@@ -7,4 +7,4 @@
 
 const division = (a, b) => a % b;
 
-division(3, 4);
+console.log(division(3, 4));
